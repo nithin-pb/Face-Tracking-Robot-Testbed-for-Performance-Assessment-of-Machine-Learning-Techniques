@@ -15,7 +15,7 @@ recommended ubutnu 14.04 or any latest LTS version with all the build essentials
 
 
 usage:
-upload main.cpp in the ATMega 328 brach and upload to arduino.
+upload main.cpp to the ATMega 328 brach and upload to arduino.
 
 $python lucimain.py
 
